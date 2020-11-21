@@ -1,0 +1,234 @@
+body
+{
+	padding:0px;
+	margin:0px;
+	background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf4fcrtieb4cwQh4sjhu8kK8k2MIpxEqzCSg&usqp=CAU") ;
+}
+
+#block{
+height:120px;
+background-color:#0099FF;
+border:2px solid #8c8b8b;
+}
+
+
+#img{
+    margin-left:430px;
+    margin-right:250px;	
+}
+
+p{
+	font-size:25px;
+	color:#404040;
+	font-family:serif;	
+}
+#come{
+	width:600px;
+	background-color:light blue;
+	margin:0px auto;
+	min-height:700px;
+	margin-top:40px;
+	border:1px solid black;}
+#menuu{
+	width:990px;
+	margin:0px auto;
+text-align:center;
+}
+#likh{
+	position:absolute;    /*this is for relative position otherwse kuch changes krne pe dono neeche ja rhe jabki ek k likhne  wale side k jana bantaa tha*/
+	margin-top:70px;
+	margin-left:400px;
+	margin-right:40px;
+	margin-bottom:90px;
+	
+}
+
+#po{
+	margin-top:120px;
+	margin-left:90px;
+	width:300px;
+	margin-bottom:90px;
+	
+}
+
+.inputFields{
+	width:210px;
+	height:20px;
+	border:1px solid #999;
+	outline:none;
+	border-radius:5px;
+}
+.thebuttons{
+	width:210px;
+	height:30px;
+	background-color:#33adff;
+	border:2px solid #8c8b8b;
+	font-weight:bold;
+	font-family:tahoma;
+	color:#FFF;
+	border-radius:4px;
+}
+
+
+#menuu a{
+	
+	text-decoration:none;
+	display:inline-block;
+	color:#666;
+	padding:14px;
+	background-color:white;
+}
+#about{
+	margin-top:50px;
+	margin-left:180px;
+	margin-right:80px;
+	
+	
+	
+}
+/*p{
+}*/
+#form{
+	width:600px;
+	margin-left:150px; 
+	margin-top:40px;
+	font-family:tahoma;
+}
+
+	
+
+
+#menu{
+	
+	position:absolute;
+margin-left:1200px;
+}
+span{
+	font-family:impact;
+	font-size:25px;
+	color:navy;
+	
+	
+}
+#last{
+	margin-top:100px;
+	margin-left:180px;
+	
+}
+span a{
+	font-family:times;
+	font-size:25px;
+	color:navy;
+}
+
+
+#image{
+	margin-left:230px;
+	margin-top:150px;
+	width:900px;
+}
+#donate{
+	margin-left:230px;
+	margin-top:97px;
+	
+	width:900px;
+}
+#menu a{
+	display:inline-block;
+    padding:6px;
+	color:#9900FF;
+	font-family:cursive;
+    font-size:16;
+	background-color:#F8F8F8;
+	border:2px solid #8c8b8b;
+
+	
+}	
+
+	#set{
+		margin-top:90px;
+		margin-bottom:50px;
+		font-family:verdana;
+		
+		
+	}
+
+pre{
+	font-family:arial;
+	font-size:20px;
+	padding-top:5px;
+	color:navy;
+	
+	
+}
+
+h3{
+	padding-left:200px;
+	padding-top:10px;
+	font-family:arial;
+	font-size:30px;
+	color:navy;
+	 text-decoration: underline;
+}
+
+hr { 
+border-style:solid;
+    border-width: 3px;
+border-top: 1px solid #8c8b8b;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 900px;
+    padding: 2rem;
+    background: rgba(0,0,0,0.8);
+     box-sizing: border-box;
+     box-shadow: 0 16px 26px rgba(0,0,0,0.5);
+     border-radius: 12px;
+     text-align: center;
+}
+.container{
+    color: #ffffffee;
+    font-family: fantasy;
+    font-size: 2rem;
+    font-weight: 100;
+   
+}   
+h5{
+    color: #ffffffee;
+    font-family: sans-serif; 
+}      
+input{
+    width: 70%;
+    padding: 1rem;
+    border-radius: 20px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 1.4rem;
+   
+}    
+button{
+    width: 25%;
+    padding: 0.6rem;
+    background-color: red;
+    border: none;
+    border-radius: 8px;
+    color: solid black;
+    font-size: 2rem;
+   
+}
+.arrow {
+    border: solid black;
+    border-width: 0 4px 4px 0;
+    display: inline-block;
+    padding: 4px;
+  }
+  
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+  
